@@ -1,0 +1,7 @@
+<resources>
+    <string name="textView">Enter the amount in ₹</string>
+    <string name="editText">Enter your amount</string>
+    <string name="button">Convert!!</string>
+    <string name="textView1">Enter the amount in $</string>
+    <string name="app_name">Currency Converter</string>
+</resources>
